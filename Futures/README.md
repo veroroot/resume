@@ -2,7 +2,7 @@
 * 사용언어 : Python
 * 데이터 수집 : KRX(한국 거래소)제공 데이터
 	참고 - http://www.krx.co.kr/main/main.jsp
-	데이터 수집 : Forexfactory(셰계외환시장 관련 사이트) 크롤링 및 스크래핑
+* 데이터 수집 : Forexfactory(셰계외환시장 관련 사이트) 크롤링 및 스크래핑
 	참고 - https://www.forexfactory.com/
 * 데이터 전처리 : 결측치 처리, 날짜 및 기술 분석을 위한 파생변수 생성(MA, BB, ATR, Stochastic),
      Forex 데이터 전처리 후 일별 기준으로 선물종가 데이터와 병합
